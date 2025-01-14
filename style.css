@@ -1,0 +1,189 @@
+
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #c5c5dc;
+    color: #861919;
+}
+
+.it {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+     padding-bottom: 2rem;
+    position: sticky;
+    top: 0;
+    
+}
+
+.it a {
+    color: #fff;
+    text-decoration: none;
+   
+}
+
+.it a:hover {
+    color: #ff8c00;
+}
+
+.zip {
+    
+    font-weight: bold;
+}
+
+
+.CPWS {
+    text-align: center;
+   
+    color: #fff;
+}
+
+.CPWS h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.CPWS p {
+    font-size: 1.2rem;
+}
+
+.rtw {
+    text-align: center;
+    padding: 3rem 2rem;
+    background-color: #e9ecef;
+}
+
+.rtw h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.rtw p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+    color: #555;
+}
+
+.div3 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.div3 .to {
+    width: 120px;
+    height: 120px;
+}
+.sha {
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 2rem;
+    background-color: #f8f9fa;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.omega, .omega2 {
+    flex: 1;
+    padding: 1rem;
+}
+
+.omega h3, .omega2 h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #ff8c00;
+}
+
+.omega p, .omega2 p {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.abcd {
+    text-align: center;
+    padding: 3rem 2rem;
+    background-color: #e9ecef;
+}
+
+.abcd h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.abcd p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+.abcd button {
+    background-color: #ff8c00;
+    color: #fff;
+    border: none;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    
+}
+
+.abcd button:hover {
+    background-color: #e67700;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 2rem;
+    text-align: left;
+}
+
+footer h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #ff8c00;
+}
+
+footer p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+
+
+footer ul li {
+    margin-bottom: 0.5rem;
+}
+
+footer .end2 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+
+
+footer .jk {
+    text-align: center;
+    font-size: 0.9rem;
+    border-top: 1px solid #444;
+    padding-top: 1rem;
+}
+
+footer .jk p {
+    margin: 0;
+}
+
+
+
